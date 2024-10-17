@@ -33,6 +33,7 @@ public class SubmissionUsingLocators {
         btn.click();
         WebElement link=driver.findElement(By.linkText("Click Here."));
         link.click();
+        ////
 
 
 

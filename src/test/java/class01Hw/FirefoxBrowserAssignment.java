@@ -19,5 +19,6 @@ public class FirefoxBrowserAssignment {
         System.out.println(currentUrl);
         System.out.println(title);
         driver.close();
+        ////
     }
 }

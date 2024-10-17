@@ -18,6 +18,7 @@ public class WebDriverCommandsAssignment {
         driver.navigate().back();
         driver.navigate().refresh();
         driver.close();
+        ////
 
     }
 }
